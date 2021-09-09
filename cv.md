@@ -1,5 +1,5 @@
 # CV
-**Zhivitsa Roman**
+## **Zhivitsa Roman**
 ## Education
 Belorussian State University, Faculty of Radiophysics and computer technologys
 ## Skill
