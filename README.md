@@ -1,1 +1,1 @@
-# rsschool-cv
+https://ExtraOil.github.io/rsschool-cv/cv
