@@ -5,9 +5,6 @@ Belorussian State University, Faculty of Radiophysics and computer technologys
 ## Skill
 - JS base
 - Git base 
-- Windows base
-- Word prof
-- Excel prof
 ## Location
 Belarus,Minsk
 ## Languages
